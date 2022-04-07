@@ -194,7 +194,7 @@ h4 {
   .cards {
 
     height: auto;
-    width: auto;
+    width: 80vw;
 
     border: 20px solid white;
     border-image: url(./Unionandriod.svg) stretch;
